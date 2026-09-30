@@ -1,25 +1,23 @@
-# @Ayush9845 — NEET 2027 Command Center
+# @Ayush9845 — Midnight NEET Tracker
 
-A standalone, responsive NEET preparation dashboard built with HTML, CSS and JavaScript.
+Standalone NEET 2027 preparation dashboard recreated around the public reference page.
 
-## Modules
-- Dashboard
-- Daily Planner
-- NCERT Tracker
-- Biology / Chemistry / Physics
-- Question Bank
-- Mock Tests
-- Performance
-- Study Streak
-- Pomodoro
-- Progress Graphs
-- Settings
+## Included
+- @Ayush9845 branding throughout
+- NEET 2027 countdown
+- Dream college + target score
+- Daily study-minute logging
+- Daily task planner
+- Physics/Chemistry/Biology syllabus tracker
+- Mock-test tracker
+- Study-hour and score analytics
+- 25-minute focus timer
+- Local browser storage
+- Responsive phone/tablet/desktop layout
+- No backend and no external dependencies
 
-## Deploy on GitHub Pages
-1. Upload `index.html`, `style.css`, `app.js`, and `README.md` to the root of a GitHub repository.
-2. Go to **Settings → Pages**.
-3. Choose **Deploy from a branch**.
-4. Select `main` and `/ (root)`.
-5. Save.
+## Run
+Open `index.html` directly, or deploy the folder to GitHub Pages, Netlify, Vercel, etc.
 
-All tracker data is stored locally in the browser using localStorage.
+## Personalization
+Open ⚙ Settings inside the site to change username, dream college and target score.
